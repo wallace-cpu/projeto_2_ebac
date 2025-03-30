@@ -16,7 +16,7 @@
             &__logo, &__links__item:first-child{
                 opacity: 0;
             }
-            visibility: hidden;
+           
         }
 
     }
@@ -49,8 +49,4 @@
         height: 50px;
     }
 
-    
-}
-.hidden{
-    visibility: hidden;
 }
