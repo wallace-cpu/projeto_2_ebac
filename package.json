@@ -2,9 +2,9 @@
   "name": "projeto_2_ebac",
   "version": "1.0.0",
   "main": "index.js",
-  {
-    "packageManager": "pnpm@7.5.1"
-  }
+  
+  
+  
   "scripts": {
     
     "dev": "gulp watch",
